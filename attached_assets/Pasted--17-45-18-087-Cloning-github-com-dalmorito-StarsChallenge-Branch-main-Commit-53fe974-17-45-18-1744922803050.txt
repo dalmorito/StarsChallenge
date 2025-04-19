@@ -1,0 +1,34 @@
+[17:45:18.087] Cloning github.com/dalmorito/StarsChallenge (Branch: main, Commit: 53fe974)
+[17:45:18.293] Previous build caches not available
+[17:45:18.810] Cloning completed: 722.000ms
+[17:45:18.999] Running build in Washington, D.C., USA (East) – iad1
+[17:45:19.163] Running "vercel build"
+[17:45:19.559] Vercel CLI 41.6.0
+[17:45:20.325] Installing dependencies...
+[17:45:24.957] npm warn deprecated @esbuild-kit/core-utils@3.3.2: Merged into tsx: https://tsx.is
+[17:45:24.992] npm warn deprecated @esbuild-kit/esm-loader@2.6.5: Merged into tsx: https://tsx.is
+[17:45:30.084] 
+[17:45:30.084] added 491 packages in 10s
+[17:45:30.084] 
+[17:45:30.085] 66 packages are looking for funding
+[17:45:30.085]   run `npm fund` for details
+[17:45:30.179] (node:165) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+[17:45:30.180] (Use `node --trace-warnings ...` to show where the warning was created)
+[17:45:30.180] /vercel/path0/vercel-build.cjs:5
+[17:45:30.180] const __dirname = process.cwd();
+[17:45:30.180]       ^
+[17:45:30.180] 
+[17:45:30.180] SyntaxError: Identifier '__dirname' has already been declared
+[17:45:30.180]     at wrapSafe (node:internal/modules/cjs/loader:1486:18)
+[17:45:30.180]     at Module._compile (node:internal/modules/cjs/loader:1528:20)
+[17:45:30.181]     at Object..js (node:internal/modules/cjs/loader:1706:10)
+[17:45:30.181]     at Module.load (node:internal/modules/cjs/loader:1289:32)
+[17:45:30.181]     at Function._load (node:internal/modules/cjs/loader:1108:12)
+[17:45:30.181]     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+[17:45:30.181]     at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+[17:45:30.181]     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+[17:45:30.181]     at node:internal/main/run_main_module:36:49
+[17:45:30.182] 
+[17:45:30.182] Node.js v22.14.0
+[17:45:30.187] Error: Command "node vercel-build.cjs" exited with 1
+[17:45:30.450] 
