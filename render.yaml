@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: movie-stars-battle
+    env: node
+    buildCommand: npm install && node build_script.js
+    startCommand: NODE_ENV=production node dist/index.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: VITE_CHUNK_SIZE_WARNING_LIMIT
+        value: 2000
+      # Importante: você precisa criar um banco Neon e adicionar o segredo no dashboard do Render
+      - key: DATABASE_URL
+        sync: false  # Indica que esse valor será definido manualmente no dashboard do Render
+    # Caminho raiz para o projeto (muito importante)
+    rootDir: .
+    # Evitar spin down (manter o serviço ativo)
+    # Nota: isso só funciona em planos pagos do Render
+    # autoDeploy: true
+    # scaling:
+    #   minInstances: 1

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "buildCommand": "node vercel-build.cjs",
+  "outputDirectory": "dist",
+  "trailingSlash": false,
+  "cleanUrls": true,
+  "public": true,
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ],
+  "env": {
+    "NODE_VERSION": "18.x"
+  }
+}
