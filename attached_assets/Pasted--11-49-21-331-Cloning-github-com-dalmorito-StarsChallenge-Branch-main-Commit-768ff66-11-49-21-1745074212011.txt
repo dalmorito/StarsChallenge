@@ -1,0 +1,35 @@
+[11:49:21.331] Cloning github.com/dalmorito/StarsChallenge (Branch: main, Commit: 768ff66)
+[11:49:21.507] Previous build caches not available
+[11:49:21.753] Cloning completed: 422.000ms
+[11:49:21.936] Running build in Washington, D.C., USA (East) – iad1
+[11:49:22.094] Running "vercel build"
+[11:49:22.461] Vercel CLI 41.6.0
+[11:49:23.168] Installing dependencies...
+[11:49:28.236] npm warn deprecated @esbuild-kit/esm-loader@2.6.5: Merged into tsx: https://tsx.is
+[11:49:28.243] npm warn deprecated @esbuild-kit/core-utils@3.3.2: Merged into tsx: https://tsx.is
+[11:49:33.189] 
+[11:49:33.190] added 491 packages in 9s
+[11:49:33.190] 
+[11:49:33.190] 66 packages are looking for funding
+[11:49:33.191]   run `npm fund` for details
+[11:49:33.741] [36mvite v5.4.14 [32mbuilding for production...[36m[39m
+[11:49:33.790] transforming...
+[11:49:34.055] Browserslist: browsers data (caniuse-lite) is 6 months old. Please run:
+[11:49:34.056]   npx update-browserslist-db@latest
+[11:49:34.056]   Why you should do it regularly: https://github.com/browserslist/update-db#readme
+[11:49:34.649] [32m✓[39m 5 modules transformed.
+[11:49:34.654] [31mx[39m Build failed in 890ms
+[11:49:34.655] [31merror during build:
+[11:49:34.655] [31m[vite]: Rollup failed to resolve import "@/components/ui/toaster" from "/vercel/path0/client/src/App.tsx".
+[11:49:34.655] This is most likely unintended because it can break your application at runtime.
+[11:49:34.655] If you do want to externalize this module explicitly add it to
+[11:49:34.655] `build.rollupOptions.external`[31m
+[11:49:34.655]     at viteWarn (file:///vercel/path0/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:65747:17)
+[11:49:34.656]     at onRollupWarning (file:///vercel/path0/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:65779:5)
+[11:49:34.656]     at onwarn (file:///vercel/path0/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:65442:7)
+[11:49:34.656]     at file:///vercel/path0/node_modules/rollup/dist/es/shared/node-entry.js:19452:13
+[11:49:34.656]     at Object.logger [as onLog] (file:///vercel/path0/node_modules/rollup/dist/es/shared/node-entry.js:21178:9)
+[11:49:34.656]     at ModuleLoader.handleInvalidResolvedId (file:///vercel/path0/node_modules/rollup/dist/es/shared/node-entry.js:20067:26)
+[11:49:34.656]     at file:///vercel/path0/node_modules/rollup/dist/es/shared/node-entry.js:20025:26[39m
+[11:49:34.674] Error: Command "npx vite build client" exited with 1
+[11:49:34.879] 

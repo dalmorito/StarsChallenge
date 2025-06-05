@@ -1,0 +1,30 @@
+quero montar um jogo de escolha entre atrizes pornográficas da lista a seguir, escolhidas aleatoricamente. na verdade, são dois jogos, um com um “campeonato” e outro de “ranking de entradas”.
+no jogo “campeonato” 64 atrizes disputam em formato de mata-mata, quem vence vai para  a próxima fase. depois das semi-finais, as perdedoras disputam o 3o lugar e as vencedoras, na grande final, disputam quem será a campeã.
+ao final do campeonato, apresenta-se duas tabela. a primeira, com a pontuação por conta da classificação de cada atriz. a 1a colocada ganha 50 pontos, a 2a, 40; a 3a, 35 pontos; a 4a, 30 pontos; da 5a à 8a, 25 pontos; da 9a à 16a, 20; da 17a à 32a, 15 pontos; e da 33a à 64a, 10 pontos. Esses pontos são cumulativos de um campeonato para o outro
+a segunda tabela é do “ranking de entradas”, a cada partida a atriz vencedora ganha o equivalente a 10% do pontos que a perdedora possui, e a atriz perdedora perde o equivalente a 10% da atriz vencedora. todas as atrizes começam 1000 pontos.
+uma terceira tabela é a de “estatística geral”, com o número de jogos, vitórias, derrotas, medalhas (ouro prata e bronze, conforme terminou o campeonato) e pontos do “ranking de entradas”.
+também faça gráficos com a evolução das oito mais bem posicionadas
+ao fim de cada campeonato, inicia-se um novo, em que as 32 eliminadas na 1a fase são substituídas por outras 32 atrizes.
+na hora da disputa entre as atrizes, buque nas imagens do bing (acrescido do termo “+porn”, para que venha o conteúdo desejado) e coloque três fotos de cada.
+
+fazer tudo online em algum site gratuito
+
+a lista é a seguinte:
+
+[    "Elle Lee", "Asa Akira", "Sumire Mizukawa", "Eva Lovia", "London Keyes",
+    "Maria Ozawa", "Sharon Lee", "Morgan Lee", "Alina Li", "Jennie Rose",
+    "Polly Pons", "Rae Lil Black", "Miko Lee", "Tia Ling", "Kaylani Lei",
+    "Kalina Ryu", "Saya Song", "Miko Sinz", "Daisy Summers", "Jasmine Sherni",
+    "Alexia Anders", "Ember Snow", "Jayna Oso", "Nautica Thorn", "Jayden Lee",
+    "Kendra Spade", "Jade Hsu", "Marica Hase", "Brenna Sparks", "Ariel Rose",
+    "Sunny Leone", "Roxy Jezel", "Cindy Starfall", "Jade Kimiko", "May Thai",
+    "Lulu Chu", "Tera Patrick", "Julia Kyoka", "Venus Lux", "Mia Khalifa",
+    "Jessica Bangkok", "Maxine X", "Avena Lee", "Dana Vespoli", "Katsuni",
+    "Kimmy Kimm", "Jasmine Grey", "Evelyn Lin", "Clara Trinity", "Charmane Star",
+    "Mia Rider", "Jureka Del Mar", "Tia Tanaka", "Nicole Doshi", "Lily Thai",
+    "Vina Skyy", "Lia Lin", "Priya Rai", "Mia Lelani", "Lea Hart",
+    "Jade Kush", "Avery Black", "Amai Liu", "Sofia Takigawa", "Linda Lan",
+    "Christy White", "Kelsey Kane", "Jodie Taylor", "Tiffany Doll", "Adria Rae",
+    "Alexa Flexy", "Sammie Rhodes", "Monika Fox", "Kamryn Jayde", "Chanel Camryn",
+    "Adel Asanty", "Zazie Skymm", "Jade Nile", "Rosalyn Sphinx", "Ash Hollywood",
+    "Ava Ston", "Sybil A", "Sienna Grace", "Jennifer Dark", "Tracy Rose",
